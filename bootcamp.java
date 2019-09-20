@@ -1,11 +1,11 @@
 public class Bootcamp {
   public static void main(String[] args) {
-    System.out.println("Hello, Swd!");
-    System.out.println("The ultimate question of Life, The Universe, and Everything is: " + computeUltimateQuestion());
+    System.out.println("Hello, Wor4ld!");
+    System.out.println("The answer to the ultimate question of Life, The Universe, and Everything is: " + computeUltimateAnswer());
 
   }
 
-  public static String computeUltimateQuestion() {
-  	return "still searching...";
-  }
+  public static int computeUltimateAnswer() {
+	return 6 * 7;
+}
 }
